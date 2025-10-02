@@ -2,5 +2,6 @@
 
 diassemana = ('segunda', 'terça', 'quarta', 'quinta', 'sexta', 'sabado', 'domingo')
 
-print(diassemana[0])
-print(diassemana[6])
+print(diassemana[2])
+print(diassemana[5])
+
